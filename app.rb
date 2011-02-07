@@ -2,5 +2,5 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "Hello TorqueBox!"
+  "Hello TorqueBox! From your good friends at StompBox!"
 end
